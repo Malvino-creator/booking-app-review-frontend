@@ -15,7 +15,7 @@ function Footer() {
           </div>
           <div className='newsletter'>
             <input id='email' placeholder='Enter your email address'></input>
-            <button id='sub'>subscribe</button>
+            <button id='sub'>Subscribe</button>
           </div>
         </div>
 
