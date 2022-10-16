@@ -71,7 +71,7 @@ function AddStyle() {
         ></textarea>
         <br />
         <label htmlFor='successrate'>
-          Success rate <em>(out of 10)</em>
+          Success Rate <em>(out of 10)</em>
         </label>
         <br />
         <input
