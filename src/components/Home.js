@@ -23,7 +23,7 @@ function Home() {
           </p>
           <br />
           <Link to='/beauty'>
-            <button type='button'>See Styles</button>
+            <button type='button'>See styles</button>
           </Link>
         </div>
         <div className='home-cont-img'>
