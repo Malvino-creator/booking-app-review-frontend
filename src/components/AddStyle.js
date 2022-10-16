@@ -47,7 +47,7 @@ function AddStyle() {
           onChange={(event) => setName(event.target.value)}
         />
         <br />
-        <label htmlFor='stylist'>Stylist Name</label>
+        <label htmlFor='stylist'>Stylist name</label>
         <br />
         <input
           type='text'
