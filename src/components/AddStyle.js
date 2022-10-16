@@ -36,7 +36,7 @@ function AddStyle() {
   return (
     <div className='addstyle-cont'>
       <form action='POST' onSubmit={handleSubmit} className='form'>
-        <label htmlFor='stylename'>New Style Name</label>
+        <label htmlFor='stylename'>New Style name</label>
         <br />
         <input
           type='text'
