@@ -47,7 +47,7 @@ function Beauty({ beauty, handleSearch }) {
       {/* <div className='beauty-list'>{randomizedBeauty}</div> */}
       <Link to='/addstyle' id='addbuttonlink'>
         <button type='button' className='addbutton'>
-          ADD STYLE
+          Add Style
         </button>
       </Link>
     </div>
