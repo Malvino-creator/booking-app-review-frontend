@@ -71,7 +71,7 @@ function Footer() {
               <Link to="/">Terms of Service</Link>
             </p>
             <p>
-              <Link to="/">Privacy and Policy</Link>
+              <Link to="/">Privacy & Policy</Link>
             </p>
           </div>
         </div>
