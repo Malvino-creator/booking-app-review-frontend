@@ -1,0 +1,60 @@
+{
+  "beauty": [
+    {
+      "id": 1,
+      "name": "Microweaving",
+      "description": "Microweaving: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ipsam consequuntur ab neque, doloribus quidem alias vel ipsum eos. Laudantium itaque aspernatur impedit aliquid error nihil ex voluptatem voluptatum saepe magni consequatur cum, facere eos modi molestias commodi dolor perspiciatis maiores incidunt ab. Temporibus est perspiciatis nisi a exercitationem? Corrupti harum aut provident dolor iure ea, nam aperiam vero officiis rerum praesentium asperiores et saepe minima magni eligendi mollitia deleniti animi eveniet. Facere pariatur facilis, reiciendis ad mollitia necessitatibus? Et vel placeat voluptatibus quam laudantium iure, accusantium aliquam ullam neque illo consectetur reiciendis, alias laboriosam, fugit at? Placeat, voluptates doloribus!",
+      "stylist": "Makena",
+      "rating": 9,
+      "img": "https://i.postimg.cc/7h3g2b5n/Whats-App-Image-2022-09-28-at-5-56-47-PM-300x300.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Weaving",
+      "description": "Weaving: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ipsam consequuntur ab neque, doloribus quidem alias vel ipsum eos. Laudantium itaque aspernatur impedit aliquid error nihil ex voluptatem voluptatum saepe magni consequatur cum, facere eos modi molestias commodi dolor perspiciatis maiores incidunt ab. Temporibus est perspiciatis nisi a exercitationem? Corrupti harum aut provident dolor iure ea, nam aperiam vero officiis rerum praesentium asperiores et saepe minima magni eligendi mollitia deleniti animi eveniet. Facere pariatur facilis, reiciendis ad mollitia necessitatibus? Et vel placeat voluptatibus quam laudantium iure, accusantium aliquam ullam neque illo consectetur reiciendis, alias laboriosam, fugit at? Placeat, voluptates doloribus!",
+      "stylist": "Sharon",
+      "rating": 7.7,
+      "img": "https://i.postimg.cc/wTRs8v5B/Whats-App-Image-2022-09-28-at-5-42-51-PM-2-300x300.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Coloring",
+      "description": "Coloring: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ipsam consequuntur ab neque, doloribus quidem alias vel ipsum eos. Laudantium itaque aspernatur impedit aliquid error nihil ex voluptatem voluptatum saepe magni consequatur cum, facere eos modi molestias commodi dolor perspiciatis maiores incidunt ab. Temporibus est perspiciatis nisi a exercitationem? Corrupti harum aut provident dolor iure ea, nam aperiam vero officiis rerum praesentium asperiores et saepe minima magni eligendi mollitia deleniti animi eveniet. Facere pariatur facilis, reiciendis ad mollitia necessitatibus? Et vel placeat voluptatibus quam laudantium iure, accusantium aliquam ullam neque illo consectetur reiciendis, alias laboriosam, fugit at? Placeat, voluptates doloribus!",
+      "stylist": "Coloring Jane",
+      "rating": 8.5,
+      "img": "https://i.postimg.cc/PrqkV3Db/Whats-App-Image-2022-09-28-at-6-08-40-PM-300x300.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pixies",
+      "description": "Pixies: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ipsam consequuntur ab neque, doloribus quidem alias vel ipsum eos. Laudantium itaque aspernatur impedit aliquid error nihil ex voluptatem voluptatum saepe magni consequatur cum, facere eos modi molestias commodi dolor perspiciatis maiores incidunt ab. Temporibus est perspiciatis nisi a exercitationem? Corrupti harum aut provident dolor iure ea, nam aperiam vero officiis rerum praesentium asperiores et saepe minima magni eligendi mollitia deleniti animi eveniet. Facere pariatur facilis, reiciendis ad mollitia necessitatibus? Et vel placeat voluptatibus quam laudantium iure, accusantium aliquam ullam neque illo consectetur reiciendis, alias laboriosam, fugit at? Placeat, voluptates doloribus!",
+      "stylist": "Pixie Queen",
+      "rating": 8.5,
+      "img": "https://i.postimg.cc/VL4Xm6dQ/Whats-App-Image-2022-09-30-at-11-12-33-AM-300x300.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Braiding",
+      "description": "Braiding: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ipsam consequuntur ab neque, doloribus quidem alias vel ipsum eos. Laudantium itaque aspernatur impedit aliquid error nihil ex voluptatem voluptatum saepe magni consequatur cum, facere eos modi molestias commodi dolor perspiciatis maiores incidunt ab. Temporibus est perspiciatis nisi a exercitationem? Corrupti harum aut provident dolor iure ea, nam aperiam vero officiis rerum praesentium asperiores et saepe minima magni eligendi mollitia deleniti animi eveniet. Facere pariatur facilis, reiciendis ad mollitia necessitatibus? Et vel placeat voluptatibus quam laudantium iure, accusantium aliquam ullam neque illo consectetur reiciendis, alias laboriosam, fugit at? Placeat, voluptates doloribus!",
+      "stylist": "Braid Master",
+      "rating": 10,
+      "img": "https://i.postimg.cc/m2NhG6pP/Whats-App-Image-2022-09-30-at-1-30-08-PM-300x300.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Corn Rows",
+      "description": "Corn Rows: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ipsam consequuntur ab neque, doloribus quidem alias vel ipsum eos. Laudantium itaque aspernatur impedit aliquid error nihil ex voluptatem voluptatum saepe magni consequatur cum, facere eos modi molestias commodi dolor perspiciatis maiores incidunt ab. Temporibus est perspiciatis nisi a exercitationem? Corrupti harum aut provident dolor iure ea, nam aperiam vero officiis rerum praesentium asperiores et saepe minima magni eligendi mollitia deleniti animi eveniet. Facere pariatur facilis, reiciendis ad mollitia necessitatibus? Et vel placeat voluptatibus quam laudantium iure, accusantium aliquam ullam neque illo consectetur reiciendis, alias laboriosam, fugit at? Placeat, voluptates doloribus!",
+      "stylist": "Maggie the Stylist",
+      "rating": 10,
+      "img": "https://i.postimg.cc/L5gfTBmz/Whats-App-Image-2022-09-30-at-2-51-18-PM-300x300.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Manicure & Padicure",
+      "description": "Manicure & Padicure: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ipsam consequuntur ab neque, doloribus quidem alias vel ipsum eos. Laudantium itaque aspernatur impedit aliquid error nihil ex voluptatem voluptatum saepe magni consequatur cum, facere eos modi molestias commodi dolor perspiciatis maiores incidunt ab. Temporibus est perspiciatis nisi a exercitationem? Corrupti harum aut provident dolor iure ea, nam aperiam vero officiis rerum praesentium asperiores et saepe minima magni eligendi mollitia deleniti animi eveniet. Facere pariatur facilis, reiciendis ad mollitia necessitatibus? Et vel placeat voluptatibus quam laudantium iure, accusantium aliquam ullam neque illo consectetur reiciendis, alias laboriosam, fugit at? Placeat, voluptates doloribus!",
+      "stylist": "Pixie the Technician",
+      "rating": 9,
+      "img": "https://i.postimg.cc/T1222T4h/Whats-App-Image-2022-10-01-at-9-45-57-AM-300x300.jpg"
+    }
+  ]
+}
