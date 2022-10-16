@@ -19,7 +19,7 @@ function Beauty({ beauty, handleSearch }) {
             <section className='beauty-item-info-bottom-section'>
               <h3>Stylist: {item.stylist}</h3>
               <h3 style={item.rating > 8 ? { color: 'green' } : null}>
-                Success rate: {item.rating}/ 10
+                Success Rate: {item.rating}/ 10
               </h3>
             </section>
           </div>
