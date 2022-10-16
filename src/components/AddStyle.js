@@ -86,7 +86,7 @@ function AddStyle() {
           onChange={(event) => setRating(event.target.value)}
         />
         <br />
-        <label htmlFor='imageurl'>Style Image Link</label>
+        <label htmlFor='imageurl'>Style Image link</label>
         <br />
         <input
           type='url'
