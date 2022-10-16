@@ -58,7 +58,7 @@ function AddStyle() {
           onChange={(event) => setStylist(event.target.value)}
         />
         <br />
-        <label htmlFor='description'>Style description</label>
+        <label htmlFor='description'>Style Description</label>
         <br />
         <textarea
           name='description'
