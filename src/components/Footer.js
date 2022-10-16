@@ -27,7 +27,7 @@ function Footer() {
               providing boda boda loans to thousands of aspiring business owners
               every day!
             </p>
-            <h3>© Hair Saloon 2022</h3>
+            <h3>© Hair saloon 2022</h3>
           </div>
           <div id='section2'>
             <h2>Counties</h2>
