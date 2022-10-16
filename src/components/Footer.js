@@ -9,7 +9,7 @@ function Footer() {
           <div className='newslettertext'>
             <h2>Stay up to date</h2>
             <p>
-              Subscribe to our newsletter to receive update and learn more about
+              subscribe to our newsletter to receive update and learn more about
               us.
             </p>
           </div>
