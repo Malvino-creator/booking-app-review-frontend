@@ -25,7 +25,7 @@ function Footer() {
             <p>
               PataBoda is one of the leading asset financing companies in Kenya,
               providing boda boda loans to thousands of aspiring business owners
-              every day!
+              every day.
             </p>
             <h3>© Hair saloon 2022</h3>
           </div>
