@@ -33,7 +33,7 @@ The Hair Saloon App is a react web applicatin that offers suggestion hairstyles 
 
 ## Live Demo Link
 
-[Hair Saloon App](https://)
+(https://saloon-sigma.vercel.app)
 
 
 ## Getting Started
@@ -89,7 +89,7 @@ Clone the project using these links depending on your local environment using ht
 - The project requires an internet connection to work because information is fetched from an external source.
 
 ### Deployment
-[Link to deployed work](https://)
+[Link to deployed work](https://saloon-sigma.vercel.app)
 
 
 ## Author
